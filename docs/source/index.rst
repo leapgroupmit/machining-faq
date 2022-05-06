@@ -17,7 +17,7 @@ Questions
 **General**
 
 :ref:`Whatisaburr`
-*What's a burr?*
+:ref:`howcolletswork`
 
 
 **Milling**
