@@ -20,5 +20,5 @@ Questions
 
 :doc:`howdoesacolletwork`
 
-:doc: `millcolletvslathe`
+:doc:`millcolletvslathe`
 **Milling**
