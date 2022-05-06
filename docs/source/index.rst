@@ -21,4 +21,19 @@ Questions
 :doc:`howdoesacolletwork`
 
 :doc:`millcolletvslathe`
+
+:doc:`differencebwchucks`
+
+:doc:`cleanup`
+
+:doc:`howtoknowifcuttingtoolisdull`
+
+:doc:`squaringblock`
+
+:doc:`countersinkvscounterbore`
+
+:doc:`alwayscenterdrill`
+
+
+
 **Milling**
