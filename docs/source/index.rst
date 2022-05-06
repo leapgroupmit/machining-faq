@@ -15,4 +15,9 @@ If you have a question of your own that you would like to submit, please use thi
 Questions
 ----------
 **General**
+
+:ref:`Whatisaburr`
+What's a burr?
+
+
 **Milling**
