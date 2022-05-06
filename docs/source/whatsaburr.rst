@@ -1,3 +1,5 @@
+.. _Whatsaburr:
+
 What is a burr?
 =================
 
