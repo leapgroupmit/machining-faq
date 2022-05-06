@@ -16,8 +16,9 @@ Questions
 ----------
 **General**
 
-:ref:`Whatisaburr`
-:ref:`howcolletswork`
+:doc:`Whatisaburr`
+
+:doc:`howcolletswork`
 
 
 **Milling**
