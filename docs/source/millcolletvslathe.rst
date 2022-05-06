@@ -12,3 +12,5 @@ these fingers tighten, resulting in high static friction and a strong clamping f
   
   * To learn more, `click here.<http://toolnotes.com/home/machining/mills-101/milling-machine-tool-holding/collets-holders-and-nuts/>`
   * To watch an animation, `click here.<https://upload.wikimedia.org/wikipedia/commons/6/6a/External_thread_pull_collet_action.gif>`
+  
+![colletmillvslathe](https://user-images.githubusercontent.com/104646709/167171094-ea5b222b-0d4c-49f1-bec4-b7f8785734b0.png)
