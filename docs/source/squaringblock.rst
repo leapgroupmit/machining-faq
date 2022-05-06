@@ -1,5 +1,6 @@
 What does “squaring a block” mean?
 =================================
+
 Squaring a block is the act of milling a small layer off the surface of orthogonal sides (facing) 
 so that you have smooth faces at 90º angles. Most stock is not quite square, and sawing doesn’t 
 guarantee perfectly square or smooth cuts – when we need more accurate measurements and angles 
