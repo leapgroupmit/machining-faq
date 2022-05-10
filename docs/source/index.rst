@@ -36,5 +36,26 @@ Questions
 
 :doc:`/general/usingclamps`
 
+**Noises**
+
+:doc: `/noises/breakingbits`
+
+:doc: `/noises/cyclicalnoise`
+
+:doc: `/noises/goodnoises`
+
+:doc: `/noises/spindlesoundsbad`
+
+:doc: `/noises/spindlesoundsbad`
+
+:doc: `/noises/whatischatter`
+
+:doc: `/noises/whyisdrillsquealing`
+
+
+
+
+
+
 
 **Milling**
