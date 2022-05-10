@@ -34,6 +34,7 @@ Questions
 
 :doc:`alwayscenterdrill`
 
+:doc:`usingclamps`
 
 
 **Milling**
