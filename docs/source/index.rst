@@ -16,23 +16,23 @@ Questions
 ----------
 **General**
 
-:doc:`whatsaburr`
+:doc:`/general/whatsaburr`
 
-:doc:`howdoesacolletwork`
+:doc:`/general/howdoesacolletwork`
 
-:doc:`millcolletvslathe`
+:doc:`/general/millcolletvslathe`
 
-:doc:`differencebwchucks`
+:doc:`/general/differencebwchucks`
 
-:doc:`cleanup`
+:doc:`/general/cleanup`
 
-:doc:`howtoknowifcuttingtoolisdull`
+:doc:`/general/howtoknowifcuttingtoolisdull`
 
-:doc:`squaringblock`
+:doc:`/general/squaringblock`
 
-:doc:`countersinkvscounterbore`
+:doc:`/general/countersinkvscounterbore`
 
-:doc:`alwayscenterdrill`
+:doc:`/general/alwayscenterdrill`
 
 :doc:`/general/usingclamps`
 
