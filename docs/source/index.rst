@@ -34,7 +34,7 @@ Questions
 
 :doc:`alwayscenterdrill`
 
-:doc:`usingclamps`
+:doc:`general/usingclamps.rst`
 
 
 **Milling**
