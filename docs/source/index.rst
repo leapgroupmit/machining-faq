@@ -74,6 +74,25 @@ Questions
 
 :doc:`/inspection/checkholelocations`
 
+**Filing**
+
+:doc:`/filing/filetypes`
+
+:doc:`/filing/dullfile`
+
+:doc:`/filing/holdingpart`
+
+:doc:`/filing/filehandle`
+
+:doc:`/filing/cleaningfile`
+
+:doc:`/filing/onedirection`
+
+:doc:`/filing/drawfiling`
+
+:doc:`/filing/chamfering`
+
+
 
 
 
