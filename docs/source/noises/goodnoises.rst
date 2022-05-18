@@ -6,4 +6,4 @@ of the tool and the workpiece. They should not hurt your ears or sound squeaky o
 for long periods of time- if this happens, you may want to adjust your speed, feed, 
 or depth of cut until you maintain a constant hum. 
 
-Here's a `video of good machining sounds <https://www.youtube.com/watch?v=Sbs5BjM4wgk>`
+Here's a `video of good machining sounds. <https://www.youtube.com/watch?v=Sbs5BjM4wgk>`_
