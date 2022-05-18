@@ -12,6 +12,6 @@ Breaking a tap, drill or end mill is common. The most common causes for breakage
 * Don’t use cutting tools that are longer than necessary (beam bending).
 
 Because taps, drills, and end mills are slender and made of hard, brittle materials, it should be obvious if one breaks. They are most likely to make a quick snapping noise and break perpendicular to the long axis. 
-`Here <https://youtu.be/0CsNIxrvbis>` are some tips to avoid breakage.
+`Here are some tips <https://youtu.be/0CsNIxrvbis>`_ to avoid breakage.
 
 .. image:: https://user-images.githubusercontent.com/104646709/167709664-f56312dc-8147-4610-9b03-01b2b1e3260f.png
