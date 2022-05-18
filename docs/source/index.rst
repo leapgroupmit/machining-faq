@@ -106,4 +106,31 @@ Questions
 :doc:`/edgefinding/depthbelowsurface`
 
 
+**Parallels and Vises**
+
+:doc:`/parallelsvises/parallels`
+
+:doc:`/parallelsvises/sizeparallels`
+
+:doc:`/parallelsvises/sliding`
+
+:doc:`/parallelsvises/notflat`
+
+:doc:`/parallelsvises/sittinginvise`
+
+:doc:`/parallelsvises/drillintovise`
+
+:doc:`/parallelsvises/tightvise`
+
+:doc:`/parallelsvises/roundvise`
+
+:doc:`/parallelsvises/putviseonmill`
+
+:doc:`/parallelsvises/viseoffmill`
+
+
+
+
+
+
 **Milling**
