@@ -52,6 +52,27 @@ Questions
 
 :doc:`/noises/whyisdrillsquealing`
 
+**Inspection**
+
+:doc:`/inspection/tolerances`
+
+:doc:`/inspection/differenttolerances`
+
+:doc:`/inspection/waystousecalipers`
+
+:doc:`/inspection/readinganalogcalipers`
+
+:doc:`/inspection/verniermicrometers`
+
+:doc:`/inspection/boltnumbers`
+
+:doc:`/inspection/depthofthread`
+
+:doc:`/inspection/measuringdrillbit`
+
+:doc:`/inspection/measuringendmill`
+
+:doc:`/inspection/checkholelocations`
 
 
 
