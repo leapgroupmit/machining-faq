@@ -93,9 +93,17 @@ Questions
 :doc:`/filing/chamfering`
 
 
+**Edge Finding**
 
+:doc:`/edgefinding/edgefinder`
 
+:doc:`/edgefinding/usingedgefinder`
 
+:doc:`/edgefinding/spindlespeededgefinding`
+
+:doc:`/edgefinding/edgefinderdiameter`
+
+:doc:`/edgefinding/depthbelowsurface`
 
 
 **Milling**
