@@ -9,7 +9,7 @@ Drill chucks, which are used on a mill, hold the cutting tool (a drill bit). Mea
 It is important to note that although a drill chuck is used on a mill, **it should not be used to hold an end mill**. 
 A drill chuck is only meant to handle the axial forces of drilling, and the tangential forces of an end mill will *permanently disassemble it!*
 
-**When using a keyed chuck, _never_ leave the key in the chuck!!!**
+**When using a keyed chuck, never leave the key in the chuck!!!**
 
 
 .. image:: https://user-images.githubusercontent.com/104646709/167173273-c66c31a0-4517-4651-84cf-f4d0b60c91b8.png
