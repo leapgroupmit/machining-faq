@@ -11,4 +11,4 @@ Other clamps, like **quick-release clamps,** use a tightening trigger and a quic
 Pressing the trigger moves the jaws closer together. 
 The quick-release lever lets the moveable jaw easily slide. 
 
-Check out this `guide to clamps<https://engineeringlearn.com/types-of-clamps-their-uses-with-pictures/>` and `the parts of a clamp<https://www.wonkeedonkeetools.co.uk/clamps/what-are-the-parts-of-a-trigger-clamp>` for more information.
+Check out this `guide to clamps <https://engineeringlearn.com/types-of-clamps-their-uses-with-pictures/>`_ and `the parts of a clamp <https://www.wonkeedonkeetools.co.uk/clamps/what-are-the-parts-of-a-trigger-clamp>`_ for more information.
