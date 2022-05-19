@@ -148,6 +148,14 @@ Questions
 
 :doc:`/drillsendmills/toolsmoking`
 
+**Loading Tools on the Mill**
+
+:doc:`/loadmill/howtoloadmill`
+
+:doc:`/loadmill/chucksvscollets`
+
+:doc:`/loadmill/sizecollet`
+
+:doc:`/loadmill/colletout`
 
 
-**Milling**
