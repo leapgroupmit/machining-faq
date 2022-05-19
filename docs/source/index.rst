@@ -128,8 +128,25 @@ Questions
 
 :doc:`/parallelsvises/viseoffmill`
 
+**Drills and End Mills**
 
+:doc:`/drillsendmills/endmill`
 
+:doc:`/drillsendmills/drill`
+
+:doc:`/drillsendmills/choosingendmill`
+
+:doc:`/drillsendmills/sizeendmill`
+
+:doc:`/drillsendmills/twoflutefourflute`
+
+:doc:`/drillsendmills/drillwithendmill`
+
+:doc:`/drillsendmills/dullcutter`
+
+:doc:`/drillsendmills/carbide`
+
+:doc:`/drillsendmills/toolsmoking`
 
 
 
