@@ -158,4 +158,26 @@ Questions
 
 :doc:`/loadmill/colletout`
 
+**Milling Techniques**
+
+:doc:`/milltechnique/conventional`
+
+:doc:`/milltechnique/climb`
+
+:doc:`/milltechnique/backlash`
+
+:doc:`/milltechnique/spindledirection`
+
+:doc:`/milltechnique/gears`
+
+:doc:`/milltechnique/perpendicular`
+
+:doc:`/milltechnique/rpms`
+
+:doc:`/milltechnique/speedvsfeed`
+
+:doc:`/milltechnique/coolant`
+
+:doc:`/milltechnique/pecking`
+
 
