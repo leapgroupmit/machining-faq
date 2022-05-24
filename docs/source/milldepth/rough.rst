@@ -1,0 +1,3 @@
+How much material should be removed for a roughing pass?
+==============
+As much as the machine and tooling can reasonably handle. Roughing is intended to be the efficient removal of material, but removing too much material can damage the machine or tooling, displace the part, or overload what the machine’s motor is capable of. Start with somewhere between 0.020” and 0.080” and adjust how deep you're cutting based on the sounds you hear. For example, if the machine starts making loud buzzing or screeching noises, you may wish to dial down how much material you are cutting. If your tool is merely skimming the part, you should cut deeper.
