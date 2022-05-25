@@ -253,3 +253,15 @@ Questions
 :doc:`/tapping/tenturnstap`
 
 :doc:`/tapping/holesizefortap`
+
+**Threads**
+
+:doc:`/threads/relief`
+
+:doc:`/threads/engagement`
+
+:doc:`/threads/majordiam`
+
+:doc:`/threads/whychamferthread`
+
+:doc:`/threads/chamferthreadsize`
