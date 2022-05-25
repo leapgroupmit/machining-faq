@@ -224,3 +224,32 @@ Questions
 
 :doc:`/xyz/knowtrammed`
 
+**Tapping**
+
+:doc:`/tapping/tapdrill`
+
+:doc:`/tapping/springcenter`
+
+:doc:`/tapping/taptypes`
+
+:doc:`/tapping/bottomthread`
+
+:doc:`/tapping/halfforward`
+
+:doc:`/tapping/tapdie`
+
+:doc:`/tapping/taponmill`
+
+:doc:`/tapping/needlubricant`
+
+:doc:`/tapping/whatlubricant`
+
+:doc:`/tapping/deburrthreads`
+
+:doc:`/tapping/countersink`
+
+:doc:`/tapping/unfunc`
+
+:doc:`/tapping/tenturnstap`
+
+:doc:`/tapping/holesizefortap`
