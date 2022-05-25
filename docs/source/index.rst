@@ -205,3 +205,22 @@ Questions
 :doc:`/centerdrill/sizecenterdrill`
 
 :doc:`/centerdrill/bothsides`
+
+**X, Y, and Z on a Mill**
+
+:doc:`/xyz/readdro`
+
+:doc:`/xyz/drodigits`
+
+:doc:`/xyz/upleftzero`
+
+:doc:`/xyz/consistentzero`
+
+:doc:`/xyz/definez`
+
+:doc:`/xyz/crankunits`
+
+:doc:`/xyz/trammedin`
+
+:doc:`/xyz/knowtrammed`
+
