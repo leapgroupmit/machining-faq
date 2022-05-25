@@ -193,3 +193,15 @@ Questions
 :doc:`/milldepth/rough`
 
 :doc:`/milldepth/spindlecenter`
+
+**Center Drilling**
+
+:doc:`/centerdrill/centerdrills`
+
+:doc:`/centerdrill/whycenterdrill`
+
+:doc:`/centerdrill/shallow`
+
+:doc:`/centerdrill/sizecenterdrill`
+
+:doc:`/centerdrill/bothsides`
