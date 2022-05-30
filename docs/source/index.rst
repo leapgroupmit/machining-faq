@@ -14,6 +14,9 @@ If you have a question of your own that you would like to submit, please use thi
 
 Questions
 ----------
+
+.. _general:
+
 **General**
 
 :doc:`/general/whatsaburr`
@@ -36,6 +39,8 @@ Questions
 
 :doc:`/general/usingclamps`
 
+.. _noises:
+
 **Noises**
 
 :doc:`/noises/breakingbits`
@@ -51,6 +56,8 @@ Questions
 :doc:`/noises/whatischatter`
 
 :doc:`/noises/whyisdrillsquealing`
+
+.. _inspection:
 
 **Inspection**
 
@@ -74,6 +81,8 @@ Questions
 
 :doc:`/inspection/checkholelocations`
 
+.. _filing:
+
 **Filing**
 
 :doc:`/filing/filetypes`
@@ -92,6 +101,7 @@ Questions
 
 :doc:`/filing/chamfering`
 
+.. _edgefinding:
 
 **Edge Finding**
 
@@ -105,6 +115,7 @@ Questions
 
 :doc:`/edgefinding/depthbelowsurface`
 
+.. _parallelsvises:
 
 **Parallels and Vises**
 
@@ -128,6 +139,8 @@ Questions
 
 :doc:`/parallelsvises/viseoffmill`
 
+.. _drillsendmills:
+
 **Drills and End Mills**
 
 :doc:`/drillsendmills/endmill`
@@ -148,6 +161,8 @@ Questions
 
 :doc:`/drillsendmills/toolsmoking`
 
+.. _toolsonmill:
+
 **Loading Tools on the Mill**
 
 :doc:`/loadmill/howtoloadmill`
@@ -157,6 +172,8 @@ Questions
 :doc:`/loadmill/sizecollet`
 
 :doc:`/loadmill/colletout`
+
+.. _millingtechniques:
 
 **Milling Techniques**
 
@@ -180,6 +197,8 @@ Questions
 
 :doc:`/milltechnique/pecking`
 
+.. _depthofcutmill:
+
 **Depth of Cut on a Mill**
 
 :doc:`/milldepth/finish`
@@ -194,6 +213,8 @@ Questions
 
 :doc:`/milldepth/spindlecenter`
 
+.. _centerdrill:
+
 **Center Drilling**
 
 :doc:`/centerdrill/centerdrills`
@@ -205,6 +226,8 @@ Questions
 :doc:`/centerdrill/sizecenterdrill`
 
 :doc:`/centerdrill/bothsides`
+
+.. _xyz:
 
 **X, Y, and Z on a Mill**
 
@@ -223,6 +246,8 @@ Questions
 :doc:`/xyz/trammedin`
 
 :doc:`/xyz/knowtrammed`
+
+.. _tapping:
 
 **Tapping**
 
@@ -254,6 +279,8 @@ Questions
 
 :doc:`/tapping/holesizefortap`
 
+.. _threads:
+
 **Threads**
 
 :doc:`/threads/relief`
@@ -266,11 +293,15 @@ Questions
 
 :doc:`/threads/chamferthreadsize`
 
+.. _chips:
+
 **Chips**
 
 :doc:`/chips/chiplook`
 
 :doc:`/chips/stringers`
+
+.. _lathestart:
 
 **Lathe Set-Up**
 
@@ -300,6 +331,8 @@ Questions
 
 :doc:`/lathestart/belowcenter`
 
+.. _lathetechniques:
+
 **Lathe Techniques**
 
 :doc:`/lathe/depthofcut`
@@ -321,8 +354,6 @@ Questions
 :doc:`/lathe/readout`
 
 .. toctree::
-  
-  runout
-  tailstockback
-  readdrolathe
-  readout
+  threads
+  lathestart
+  lathetechniques
