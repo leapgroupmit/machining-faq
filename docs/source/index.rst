@@ -299,3 +299,30 @@ Questions
 :doc:`/lathestart/lathetools`
 
 :doc:`/lathestart/belowcenter`
+
+**Lathe Techniques**
+
+:doc:`/lathe/depthofcut`
+
+:doc:`/lathe/finishfeed`
+
+:doc:`/lathe/finishstock`
+
+:doc:`/lathe/surfacefinish`
+
+:doc:`/lathe/concentricity`
+
+:doc:`/lathe/runout`
+
+:doc:`/lathe/tailstockback`
+
+:doc:`/lathe/readdrolathe`
+
+:doc:`/lathe/readout`
+
+.. toctree::
+  
+  runout
+  tailstockback
+  readdrolathe
+  readout
