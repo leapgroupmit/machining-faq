@@ -271,3 +271,31 @@ Questions
 :doc:`/chips/chiplook`
 
 :doc:`/chips/stringers`
+
+**Lathe Set-Up**
+
+:doc:`/lathestart/colletsvschucks``
+
+:doc:`/lathestart/stickout`
+
+:doc:`/lathestart/stickoutmore`
+
+:doc:`/lathestart/colletintolathe`
+
+:doc:`/lathestart/spindledirectionlathe`
+
+:doc:`/lathestart/changespeed`
+
+:doc:`/lathestart/nospin
+
+:doc:`/lathestart/center`
+
+:doc:`/lathestart/centertailstock`
+
+:doc:`/lathestart/toolheight`
+
+:doc:`/lathestart/latheparts`
+
+:doc:`/lathestart/lathetools`
+
+:doc:`/lathestart/belowcenter`
