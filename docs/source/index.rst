@@ -265,3 +265,9 @@ Questions
 :doc:`/threads/whychamferthread`
 
 :doc:`/threads/chamferthreadsize`
+
+**Chips**
+
+:doc:`/chips/chiplook`
+
+:doc:`/chips/stringers`
