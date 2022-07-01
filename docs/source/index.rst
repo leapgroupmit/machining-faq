@@ -18,6 +18,7 @@ Questions
 .. _general:
 
 **General**
+----------
 
 :doc:`/general/whatsaburr`
 
@@ -42,6 +43,7 @@ Questions
 .. _noises:
 
 **Noises**
+---------
 
 :doc:`/noises/breakingbits`
 
@@ -305,7 +307,7 @@ Questions
 
 **Lathe Set-Up**
 
-:doc:`/lathestart/colletsvschucks``
+:doc:`/lathestart/colletsvschucks`
 
 :doc:`/lathestart/stickout`
 
@@ -317,7 +319,7 @@ Questions
 
 :doc:`/lathestart/changespeed`
 
-:doc:`/lathestart/nospin
+:doc:`/lathestart/nospin`
 
 :doc:`/lathestart/center`
 
