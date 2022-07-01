@@ -1,4 +1,4 @@
-MIT LEAP Group Machining FAQs
+**MIT LEAP Group Machining FAQs**
 ==========================
 
 Working in a machine shop for the first time, 
@@ -10,16 +10,17 @@ looking to *sharpen* their skillset.
 
 To use this website, you may browse or search for questions. 
 
-If you have a question of your own that you would like to submit, please use this form!
+If you have a question of your own that you would like to submit, please use `this form! <https://forms.gle/2WPw4gJoiGrHWvKj7>`_
 
-**General**
-=======
+Questions
+============
+
+General
+--------------
 
 :doc:`/general/whatsaburr`
----------
 
 :doc:`/general/howdoesacolletwork`
----------
 
 :doc:`/general/millcolletvslathe`
 
@@ -39,8 +40,8 @@ If you have a question of your own that you would like to submit, please use thi
 
 
 
-**Noises**
-==========
+Noises
+----------
 
 :doc:`/noises/breakingbits`
 
@@ -58,8 +59,8 @@ If you have a question of your own that you would like to submit, please use thi
 
 
 
-**Inspection**
-==========
+Inspection
+-----------
 
 :doc:`/inspection/tolerances`
 
@@ -83,8 +84,8 @@ If you have a question of your own that you would like to submit, please use thi
 
 
 
-**Filing**
-===========
+Filing
+----------
 
 :doc:`/filing/filetypes`
 
@@ -104,8 +105,8 @@ If you have a question of your own that you would like to submit, please use thi
 
 
 
-**Edge Finding**
-==========
+Edge Finding
+-----------
 
 :doc:`/edgefinding/edgefinder`
 
@@ -118,8 +119,8 @@ If you have a question of your own that you would like to submit, please use thi
 :doc:`/edgefinding/depthbelowsurface`
 
 
-**Parallels and Vises**
-=============
+Parallels and Vises
+------------
 
 :doc:`/parallelsvises/parallels`
 
@@ -143,8 +144,8 @@ If you have a question of your own that you would like to submit, please use thi
 
 
 
-**Drills and End Mills**
-==================
+Drills and End Mills
+----------------
 
 :doc:`/drillsendmills/endmill`
 
@@ -165,8 +166,8 @@ If you have a question of your own that you would like to submit, please use thi
 :doc:`/drillsendmills/toolsmoking`
 
 
-**Loading Tools on the Mill**
-===============
+Loading Tools on the Mill
+-------------
 
 :doc:`/loadmill/howtoloadmill`
 
@@ -178,8 +179,8 @@ If you have a question of your own that you would like to submit, please use thi
 
 .. _millingtechniques:
 
-**Milling Techniques**
-===============
+Milling Techniques
+--------------
 
 :doc:`/milltechnique/conventional`
 
@@ -203,8 +204,8 @@ If you have a question of your own that you would like to submit, please use thi
 
 
 
-**Depth of Cut on a Mill**
-==================
+Depth of Cut on a Mill
+---------------
 
 :doc:`/milldepth/finish`
 
@@ -220,8 +221,8 @@ If you have a question of your own that you would like to submit, please use thi
 
 
 
-**Center Drilling**
-==============
+Center Drilling
+---------------
 
 :doc:`/centerdrill/centerdrills`
 
@@ -235,8 +236,8 @@ If you have a question of your own that you would like to submit, please use thi
 
 
 
-**X, Y, and Z on a Mill**
-========
+X, Y, and Z on a Mill
+-------------
 
 :doc:`/xyz/readdro`
 
@@ -255,8 +256,8 @@ If you have a question of your own that you would like to submit, please use thi
 :doc:`/xyz/knowtrammed`
 
 
-**Tapping**
-===========
+Tapping
+--------------
 
 :doc:`/tapping/tapdrill`
 
@@ -287,8 +288,8 @@ If you have a question of your own that you would like to submit, please use thi
 :doc:`/tapping/holesizefortap`
 
 
-**Threads**
-===========
+Threads
+------------
 
 :doc:`/threads/relief`
 
@@ -302,8 +303,8 @@ If you have a question of your own that you would like to submit, please use thi
 
 
 
-**Chips**
-============
+Chips
+--------------
 
 :doc:`/chips/chiplook`
 
@@ -311,8 +312,8 @@ If you have a question of your own that you would like to submit, please use thi
 
 
 
-**Lathe Set-Up**
-=============
+Lathe Set-Up
+-------------
 
 :doc:`/lathestart/colletsvschucks`
 
@@ -341,8 +342,8 @@ If you have a question of your own that you would like to submit, please use thi
 :doc:`/lathestart/belowcenter`
 
 
-**Lathe Techniques**
-==================
+Lathe Techniques
+------------
 
 :doc:`/lathe/depthofcut`
 
