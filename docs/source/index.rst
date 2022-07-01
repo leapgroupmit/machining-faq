@@ -16,8 +16,10 @@ If you have a question of your own that you would like to submit, please use thi
 =======
 
 :doc:`/general/whatsaburr`
+---------
 
 :doc:`/general/howdoesacolletwork`
+---------
 
 :doc:`/general/millcolletvslathe`
 
@@ -38,7 +40,7 @@ If you have a question of your own that you would like to submit, please use thi
 
 
 **Noises**
----------
+==========
 
 :doc:`/noises/breakingbits`
 
@@ -57,7 +59,7 @@ If you have a question of your own that you would like to submit, please use thi
 
 
 **Inspection**
------------
+==========
 
 :doc:`/inspection/tolerances`
 
@@ -82,7 +84,7 @@ If you have a question of your own that you would like to submit, please use thi
 
 
 **Filing**
-----------
+===========
 
 :doc:`/filing/filetypes`
 
@@ -103,7 +105,7 @@ If you have a question of your own that you would like to submit, please use thi
 
 
 **Edge Finding**
--------------
+==========
 
 :doc:`/edgefinding/edgefinder`
 
@@ -117,7 +119,7 @@ If you have a question of your own that you would like to submit, please use thi
 
 
 **Parallels and Vises**
---------------
+=============
 
 :doc:`/parallelsvises/parallels`
 
@@ -142,7 +144,7 @@ If you have a question of your own that you would like to submit, please use thi
 
 
 **Drills and End Mills**
-------------------
+==================
 
 :doc:`/drillsendmills/endmill`
 
@@ -164,7 +166,7 @@ If you have a question of your own that you would like to submit, please use thi
 
 
 **Loading Tools on the Mill**
----------------
+===============
 
 :doc:`/loadmill/howtoloadmill`
 
@@ -177,7 +179,7 @@ If you have a question of your own that you would like to submit, please use thi
 .. _millingtechniques:
 
 **Milling Techniques**
------------------
+===============
 
 :doc:`/milltechnique/conventional`
 
@@ -202,7 +204,7 @@ If you have a question of your own that you would like to submit, please use thi
 
 
 **Depth of Cut on a Mill**
----------------
+==================
 
 :doc:`/milldepth/finish`
 
@@ -219,7 +221,7 @@ If you have a question of your own that you would like to submit, please use thi
 
 
 **Center Drilling**
------------
+==============
 
 :doc:`/centerdrill/centerdrills`
 
@@ -234,7 +236,7 @@ If you have a question of your own that you would like to submit, please use thi
 
 
 **X, Y, and Z on a Mill**
------------
+========
 
 :doc:`/xyz/readdro`
 
@@ -254,7 +256,7 @@ If you have a question of your own that you would like to submit, please use thi
 
 
 **Tapping**
------------
+===========
 
 :doc:`/tapping/tapdrill`
 
@@ -286,7 +288,7 @@ If you have a question of your own that you would like to submit, please use thi
 
 
 **Threads**
-------------
+===========
 
 :doc:`/threads/relief`
 
@@ -301,7 +303,7 @@ If you have a question of your own that you would like to submit, please use thi
 
 
 **Chips**
------------
+============
 
 :doc:`/chips/chiplook`
 
@@ -310,7 +312,7 @@ If you have a question of your own that you would like to submit, please use thi
 
 
 **Lathe Set-Up**
-------------
+=============
 
 :doc:`/lathestart/colletsvschucks`
 
@@ -340,7 +342,7 @@ If you have a question of your own that you would like to submit, please use thi
 
 
 **Lathe Techniques**
------------
+==================
 
 :doc:`/lathe/depthofcut`
 
