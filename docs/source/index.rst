@@ -12,13 +12,8 @@ To use this website, you may browse or search for questions.
 
 If you have a question of your own that you would like to submit, please use this form!
 
-Questions
-----------
-
-.. _general:
-
 **General**
-----------
+=======
 
 :doc:`/general/whatsaburr`
 
@@ -40,7 +35,7 @@ Questions
 
 :doc:`/general/usingclamps`
 
-.. _noises:
+
 
 **Noises**
 ---------
@@ -59,9 +54,10 @@ Questions
 
 :doc:`/noises/whyisdrillsquealing`
 
-.. _inspection:
+
 
 **Inspection**
+-----------
 
 :doc:`/inspection/tolerances`
 
@@ -83,9 +79,10 @@ Questions
 
 :doc:`/inspection/checkholelocations`
 
-.. _filing:
+
 
 **Filing**
+----------
 
 :doc:`/filing/filetypes`
 
@@ -103,9 +100,10 @@ Questions
 
 :doc:`/filing/chamfering`
 
-.. _edgefinding:
+
 
 **Edge Finding**
+-------------
 
 :doc:`/edgefinding/edgefinder`
 
@@ -117,9 +115,9 @@ Questions
 
 :doc:`/edgefinding/depthbelowsurface`
 
-.. _parallelsvises:
 
 **Parallels and Vises**
+--------------
 
 :doc:`/parallelsvises/parallels`
 
@@ -141,9 +139,10 @@ Questions
 
 :doc:`/parallelsvises/viseoffmill`
 
-.. _drillsendmills:
+
 
 **Drills and End Mills**
+------------------
 
 :doc:`/drillsendmills/endmill`
 
@@ -163,9 +162,9 @@ Questions
 
 :doc:`/drillsendmills/toolsmoking`
 
-.. _toolsonmill:
 
 **Loading Tools on the Mill**
+---------------
 
 :doc:`/loadmill/howtoloadmill`
 
@@ -178,6 +177,7 @@ Questions
 .. _millingtechniques:
 
 **Milling Techniques**
+-----------------
 
 :doc:`/milltechnique/conventional`
 
@@ -199,9 +199,10 @@ Questions
 
 :doc:`/milltechnique/pecking`
 
-.. _depthofcutmill:
+
 
 **Depth of Cut on a Mill**
+---------------
 
 :doc:`/milldepth/finish`
 
@@ -215,9 +216,10 @@ Questions
 
 :doc:`/milldepth/spindlecenter`
 
-.. _centerdrill:
+
 
 **Center Drilling**
+-----------
 
 :doc:`/centerdrill/centerdrills`
 
@@ -229,9 +231,10 @@ Questions
 
 :doc:`/centerdrill/bothsides`
 
-.. _xyz:
+
 
 **X, Y, and Z on a Mill**
+-----------
 
 :doc:`/xyz/readdro`
 
@@ -249,9 +252,9 @@ Questions
 
 :doc:`/xyz/knowtrammed`
 
-.. _tapping:
 
 **Tapping**
+-----------
 
 :doc:`/tapping/tapdrill`
 
@@ -281,9 +284,9 @@ Questions
 
 :doc:`/tapping/holesizefortap`
 
-.. _threads:
 
 **Threads**
+------------
 
 :doc:`/threads/relief`
 
@@ -295,17 +298,19 @@ Questions
 
 :doc:`/threads/chamferthreadsize`
 
-.. _chips:
+
 
 **Chips**
+-----------
 
 :doc:`/chips/chiplook`
 
 :doc:`/chips/stringers`
 
-.. _lathestart:
+
 
 **Lathe Set-Up**
+------------
 
 :doc:`/lathestart/colletsvschucks`
 
@@ -333,9 +338,9 @@ Questions
 
 :doc:`/lathestart/belowcenter`
 
-.. _lathetechniques:
 
 **Lathe Techniques**
+-----------
 
 :doc:`/lathe/depthofcut`
 
@@ -355,7 +360,4 @@ Questions
 
 :doc:`/lathe/readout`
 
-.. toctree::
-  threads
-  lathestart
-  lathetechniques
+
